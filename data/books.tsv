@@ -1,0 +1,56 @@
+code	abbr	name	tlg
+1	Gen	Genesis	tlg001
+2	Exod	Exodus	tlg002
+3	Lev	Leviticus	tlg003
+4	Num	Numbers	tlg004
+5	Deut	Deuteronomy	tlg005
+6	Josh	Joshua	tlg006
+7	Judg	Judges	tlg008
+8	Ruth	Ruth	tlg010
+9	1Kgdms	1 Kingdoms (1 Samuel)	tlg011
+10	2Kgdms	2 Kingdoms (2 Samuel)	tlg012
+11	3Kgdms	3 Kingdoms (1 Kings)	tlg013
+12	4Kgdms	4 Kingdoms (2 Kings)	tlg014
+13	1Chr	1 Chronicles	tlg015
+14	2Chr	2 Chronicles	tlg016
+15	1Esd	1 Esdras	tlg017
+16	2Esd	2 Esdras (Ezra-Nehemiah)	tlg018
+17	Esth	Esther	tlg019
+18	Jdt	Judith	tlg020
+19	Tob	Tobit	tlg021
+20	1Macc	1 Maccabees	tlg023
+21	2Macc	2 Maccabees	tlg024
+22	3Macc	3 Maccabees	tlg025
+23	4Macc	4 Maccabees	tlg026
+24	Ps	Psalms	tlg027
+25	Odes	Odes	tlg028
+26	Prov	Proverbs	tlg029
+27	Song	Song of Songs	tlg031
+28	Job	Job	tlg032
+29	Wis	Wisdom of Solomon	tlg033
+30	Sir	Sirach	tlg034
+31	PssSol	Psalms of Solomon	tlg035
+32	Hos	Hosea	tlg036
+33	Amos	Amos	tlg037
+34	Mic	Micah	tlg038
+35	Joel	Joel	tlg039
+36	Obad	Obadiah	tlg040
+37	Jonah	Jonah	tlg041
+38	Nah	Nahum	tlg042
+39	Hab	Habakkuk	tlg043
+40	Zeph	Zephaniah	tlg044
+41	Hag	Haggai	tlg045
+42	Zech	Zechariah	tlg046
+43	Mal	Malachi	tlg047
+44	Isa	Isaiah	tlg048
+45	Jer	Jeremiah	tlg049
+46	Bar	Baruch	tlg050
+47	Lam	Lamentations	tlg051
+48	EpJer	Epistle of Jeremiah	tlg052
+49	Ezek	Ezekiel	tlg053
+50	Sus	Susanna (LXX)	tlg054
+51	SusTh	Susanna (Theodotion)	tlg055
+52	Dan	Daniel (LXX)	tlg056
+53	DanTh	Daniel (Theodotion)	tlg057
+54	Bel	Bel and the Dragon (LXX)	tlg058
+55	BelTh	Bel and the Dragon (Theodotion)	tlg059

@@ -1,0 +1,7 @@
+# The analyzer imports the Morpheus toolkit from a checkout (set MORPHEUS_PY to
+# its `python/` directory). The toolkit itself depends on `beta_code`, so run the
+# script with the toolkit's virtualenv.
+#
+# Example:
+#   MORPHEUS_PY=~/Code/morpheus/python \
+#     ~/Code/morpheus/.venv/bin/python analyze_lxx.py
